@@ -11,7 +11,7 @@ body {
 	font-family: sans-serif;
 }
 header{
-	background-image: url(assets/bannerphoto.jpg);
+	background-image: url(../assets/bannerphoto.jpg);
 	height:250px;
 }
 
