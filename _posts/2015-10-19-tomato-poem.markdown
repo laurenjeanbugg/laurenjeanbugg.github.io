@@ -1,3 +1,10 @@
+---
+layout: default
+title:  Tomato re(a)d
+date:   2015-10-19
+listed: false
+published: true
+---
 “Tomato: re(a)d woman”
 
 Genus: Solanum
