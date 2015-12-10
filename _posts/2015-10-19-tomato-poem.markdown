@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Tomato re(a)d
 date:   2015-10-19
 listed: false
