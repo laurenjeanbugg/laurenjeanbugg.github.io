@@ -4,5 +4,5 @@ url: http://laurenjeanbugg.github.io/
 
 permalink: none
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 timezone: America/New_York

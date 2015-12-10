@@ -1,0 +1,17 @@
+html, body, img, h1, p, ul, header, li, a{	
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	text-decoration: none;
+box-sizing: border-box;
+list-style: none;
+}
+body {
+	font-family: sans-serif;
+}
+header{
+	background-image: url(images/bannerphoto.jpg);
+	height:250px;
+}
+
